@@ -4,7 +4,7 @@
 This project explores how MongoDB can be used to store and analyze data from a CSV file.  
 Instead of using MySQL (structured tables), I chose MongoDB, a NoSQL database that stores data as flexible documents.
 
-## 🗄️ Why MongoDB?
+## Why MongoDB?
 - MySQL: Structured data (tables)  
 - MongoDB: Semi-structured/unstructured data (documents)  
 - Easy CSV/JSON upload through MongoDB Compass  
